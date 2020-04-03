@@ -3,3 +3,4 @@ learn git
 at branch master
 git add remove
 at branch feature
+fast forward merge
