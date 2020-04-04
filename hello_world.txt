@@ -12,3 +12,4 @@ master rebase hello world
 local pull test
 remote pull test
 local pull rebase test
+do commit amend test
