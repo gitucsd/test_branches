@@ -10,3 +10,4 @@ master hello world
 dev hello world
 master rebase hello world 
 local pull test
+remote pull test
