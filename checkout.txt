@@ -6,4 +6,4 @@ master rebase checkout file
 dev rebase checkout file
 
 remote rebase checkout
-
+local rebase checkout
