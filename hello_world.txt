@@ -6,3 +6,4 @@ at branch feature
 fast forward merge
 no off 
 fix bug
+master hello world
