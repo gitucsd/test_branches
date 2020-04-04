@@ -5,3 +5,5 @@ To generate a second patch.
 master rebase checkout file
 dev rebase checkout file
 
+remote rebase checkout
+
